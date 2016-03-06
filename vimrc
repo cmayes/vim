@@ -5,3 +5,4 @@ syntax on
 set encoding=utf-8
 inoremap jk <ESC>
 let mapleader = ","
+set spell spelllang=en_us
